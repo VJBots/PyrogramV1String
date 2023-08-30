@@ -7,4 +7,4 @@
 - ```git clone https://github.com/VJBots/PyrogramV1String string```
 - ```cd string```
 - ```pip install -r Installer```
-- ```python Aditya.py```
+- ```python TechVJ.py```
